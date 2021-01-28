@@ -19,6 +19,9 @@ The image above shows the summary of the ride sharing data. As expected, the hig
 Recommendations to the CEO based on the analysis.
 
 
-1)
-2)
-3)
+1) Increase the number of drivers in rural areas. The high cost of ride will descourage customers to benefit from our service.
+
+2) Urban areas should have less drivers. This will allow the drivers to make more profit per ride.
+
+3) Discount coupons should be floated on months where number of rides drop. This drop is specially seen in March and April.
+
